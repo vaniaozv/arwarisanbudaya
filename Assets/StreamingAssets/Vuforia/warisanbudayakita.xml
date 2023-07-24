@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tugutitik" size="1.000000 0.561429" />
+    <ImageTarget name="gedungdanpelabuhanpelindo" size="1.000000 0.650572" />
+    <ImageTarget name="rumahtenun" size="1.000000 0.603846" />
+    <ImageTarget name="IstanaHinggap" size="1.000000 0.562500" />
+    <ImageTarget name="terminal" size="1.000000 0.750000" />
+    <ImageTarget name="rumahsultan" size="1.000000 0.667197" />
+  </Tracking>
+</QCARConfig>
